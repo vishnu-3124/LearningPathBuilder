@@ -48,4 +48,5 @@ Deployment: Streamlit / Streamlit Community Cloud
 4. Run the app
    streamlit run app.py // app.py = the file name of your py
 
-
+## 🚀 Live Demo
+[**Click here to view the live website**](https://learningpathbuilder-ugwsvy42sq9ffae9v27uth.streamlit.app/)
